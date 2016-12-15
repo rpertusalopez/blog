@@ -1,1 +1,3 @@
+```
 Day over Day = DIVIDE((SUM(StockEOD[StockPrice]) - [Prev Day]),[Prev Day])
+```
